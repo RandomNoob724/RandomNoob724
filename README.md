@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on My Personal Blog
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on a Time Tracking Tool for consultants
+- 🌱 I’m currently learning C#, ASP.NET
 - 💬 Ask me about Anything
 - 📫 How to reach me: Email, but i rarely answer
 - ⚡ Fun fact: I love reading so book tips are appreciated (Both coding related and non-coding related)
