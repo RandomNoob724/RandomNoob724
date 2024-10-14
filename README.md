@@ -1,9 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a Time Tracking Tool for consultants
+- 🔭 I’m currently working on a tool for routeplanning for runners and cyclists
 - 🌱 I’m currently learning C#, ASP.NET
-- 💬 Ask me about Anything
-- 📫 How to reach me: Email, but i rarely answer
-- ⚡ Fun fact: I love reading so book tips are appreciated (Both coding related and non-coding related)
+- ⚡ Fun fact: In my sparetime I love to keep active and training for triathlons 🏊‍♂️🚴‍♂️🏃‍♂️🏅
 
 ### Connect with me
 [<img align="left" alt="randomnoobcodes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
