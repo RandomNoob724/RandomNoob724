@@ -4,7 +4,6 @@
 - ⚡ Fun fact: In my sparetime I love to keep active and training for triathlons 🏊‍♂️🚴‍♂️🏃‍♂️🏅
 
 ### Connect with me
-[<img align="left" alt="randomnoobcodes.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="RandomNoob724 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Emil Persson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="RandomNoob724 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -29,9 +28,7 @@
 <br/>
 
 [instagram]: https://www.instagram.com/randomnoob724/
-[website]: https://randomnoobcodes.com
 [linkedin]: https://www.linkedin.com/in/emil-persson-aa5a17157/
-[twitter]: https://twitter.com/RandomNoob724
 
 <!-- [![RandomNoob724's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandomNoob724&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) -->
 
