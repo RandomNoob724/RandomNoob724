@@ -2,9 +2,6 @@
 - 🔭 I’m currently working on a tool for routeplanning for runners and cyclists
 - ⚡ Fun fact: In my sparetime I love to keep active and training for triathlons 🏊‍♂️🚴‍♂️🏃‍♂️🏅
 
-### Connect with me
-[<img align="left" alt="Emil Persson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="RandomNoob724 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 
 ### Languages and Tools
